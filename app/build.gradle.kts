@@ -33,7 +33,7 @@ android {
 
 dependencies {
 
-    implementation("com.airbnb.android:lottie:5.2.0")
+    implementation("com.airbnb.android:lottie:6.0.0")
     implementation(kotlin("script-runtime"))
     implementation(libs.appcompat)
     implementation(libs.material)

@@ -65,7 +65,7 @@
             android:text="Login" />
 
         <com.airbnb.lottie.LottieAnimationView
-            android:id="@+id/lottie_animation"
+            android:id="@+id/lottieAnimationView"
             android:layout_width="150dp"
             android:layout_height="150dp"
             app:lottie_autoPlay="true"
